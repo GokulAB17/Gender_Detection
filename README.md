@@ -12,4 +12,4 @@ Gender-Detection by CNN keras openCV
 
 </p> Courtesy: https://www.youtube.com/watch?v=WOuAI5DhHyU&list=WL&index=13
 
-</p> https://github.com/balajisrinivas/Gender-Detection download all files from here if above steps not to be followed.
+</p> Reference: https://github.com/balajisrinivas/Gender-Detection download all files from here if above steps not to be followed.
