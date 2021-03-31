@@ -1,2 +1,2 @@
 # Gender_Detection
-Gender-Detection by tesnsorflow keras openCV
+Gender-Detection by CNN keras openCV
