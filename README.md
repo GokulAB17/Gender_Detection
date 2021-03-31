@@ -9,3 +9,7 @@ Gender-Detection by CNN keras openCV
 </p>4. Train the model by using train.py file.
 
 </p>5. after model is created run detect_gender_webcam.py file to detect in your webcam. 
+
+</p> Courtesy: https://www.youtube.com/watch?v=WOuAI5DhHyU&list=WL&index=13
+
+</p> https://github.com/balajisrinivas/Gender-Detection download all files from here if above steps not to be followed.
